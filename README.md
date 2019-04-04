@@ -1,2 +1,2 @@
 # theme_1
-Custom theme fro Drupal 8
+Custom theme for Drupal 8
